@@ -1,6 +1,6 @@
 # JmanuelS1
 <h1 align="center">Hola 🖐🏻, Soy Jesús Manuel Sánchez</h1>
-<h3 align="center">Soy un Administrados de RR.HH. y Docente de Educación Física, apasionado por la tecnología y el desarrollo. Me aventuré en este fascinante mundo y descubrí un universo de posibilidades que me inspiran a aprender y colaborar constantemente.</h3>
+<h3 align="center">Soy un Administrador de RR.HH. y Docente de Educación Física, apasionado por la tecnología y el desarrollo. Me aventuré en este fascinante mundo y descubrí un universo de posibilidades que me inspiran a aprender y colaborar constantemente.</h3>
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
