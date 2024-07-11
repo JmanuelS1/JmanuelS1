@@ -4,8 +4,7 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jes%C3%BAs-manuel-s%C3%A1nchez-6a925318a/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesús Sánchez" height="30" width="40" />
-
+<a href="www.linkedin.com/in/jesús-manuel-sánchez-rincón-6a925318a" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesús Sánchez" height="30" width="40" />
 
 
 <h3 align="left">Lenguages y Herramientas:</h3>
