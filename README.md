@@ -6,6 +6,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jes%C3%BAs-manuel-s%C3%A1nchez-6a925318a/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesús Sánchez" height="30" width="40" />
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <h3 align="left">Lenguages y Herramientas:</h3>
 [![My Skills](https://skillicons.dev/icons?i=bash,css,discord,express,figma,github,gmail,html,js,jest,linkedin,netlify,nextjs,nodejs,notion,npm,postgres,postman,react,redux,regex,replit,sass,sequelize,svg,tailwind,vite,vscode,windows)](https://skillicons.dev)
 
